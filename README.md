@@ -16,4 +16,4 @@
 
 ### Tech Stack & Tools
 
-🐍 **Python** | 🖥️ **PyQt6** | 🧠 **TensorFlow/PyTorch** | 🎙️ **Vosk/Whisper** | 🐚 **CLI**
+🐍 **Python** | 🖥️ **PyQt6** 
