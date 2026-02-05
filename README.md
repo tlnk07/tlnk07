@@ -16,4 +16,4 @@
 
 ### Tech Stack & Tools
 
-🐍 **Python** | 🖥️ **PyQt6** 
+🐍 **Python** | 🖥️ **PyQt6** | 🎨 **Custom tkinter**
