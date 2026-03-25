@@ -13,7 +13,7 @@
 * 🔐 **[Parkey](https://github.com/slnquangtran/Parkey)** - Secure password manager built with a focus on mastering software development lifecycles.
 * 🛠️ **[PDFtoolbox](https://github.com/tlnk07/PDFtoolbox)** - All-in-one PDF management tool built and advanced GUI application.
 * 🌐 **[IST](https://github.com/tlnk07/IST)** - Measure your connection quality with precision and style.
-* 🌐 **[BGC](https://github.com/tlnk07/BGC)** - A powerful, dark‑themed desktop tool to remove image backgrounds in one click.
+* ✂️ **[BGC](https://github.com/tlnk07/BGC)** - A powerful, dark‑themed desktop tool to remove image backgrounds in one click.
 ---
 
 ### Tech Stack & Tools
